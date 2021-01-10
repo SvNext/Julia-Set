@@ -22,6 +22,6 @@ Run the jupyter notebook:
     
 ## Results
 
-Сhoose one of the values of _c_ or prescribe it yourself and consistently run the all cells.
+Сhoose one of the values of _c_ or prescribe it yourself and consistently run all cells.
 
 ![Intro image](./images/example1.png)
